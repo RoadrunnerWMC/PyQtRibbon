@@ -1,6 +1,7 @@
 # PyQtRibbon
 #### By RoadrunnerWMC
-VERY EARLY UNFINISHED VERSION
+
+**PLEASE READ:** This project is very unfinished, and I don't think the code is very good. I'm never going to revisit it, so I've marked it as "archived." If you really want a PyQt ribbon library, your best option is probably to write your own, honestly. Original readme text follows below:
 
 A Python module for creating ribbon UIs with PyQt5. Quite underpowered at the moment.
 
